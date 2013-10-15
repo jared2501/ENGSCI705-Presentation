@@ -52,3 +52,7 @@ img.wingding {
 	border: none !important;
 	box-shadow: none !important;
 }
+
+.reveal.center.cube .slides section {
+	min-height: 0;
+}
