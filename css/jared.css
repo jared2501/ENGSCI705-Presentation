@@ -27,6 +27,13 @@ table.mytable tr td {
 	padding: 3px 15px;
 }
 
+table.mytable2 {
+	margin: 0 auto;
+}
+table.mytable2 tr td {
+	padding: 3px 10px;
+}
+
 .reveal h1,
 .reveal h2,
 .reveal h3,
@@ -34,3 +41,14 @@ table.mytable tr td {
 .reveal h5,
 .reveal h6 {
   text-transform: none; }
+
+img.wingding {
+	margin: 0 !important;
+	padding: 0;
+	width: 30px;
+	height: auto;
+
+	background: none !important;
+	border: none !important;
+	box-shadow: none !important;
+}
