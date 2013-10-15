@@ -56,3 +56,8 @@ img.wingding {
 .reveal.center.cube .slides section {
 	min-height: 0;
 }
+
+
+.reveal .progress {
+	height: 7px;
+}

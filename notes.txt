@@ -1,0 +1,23 @@
+Today, Im going to talk about scenario planning, which is an alternative way for deailing with uncertainity in the decision making process.
+
+
+
+Uncertainty is commonly encountered in many decision making processes. For example, as future engineering graduates im sure some people are uncertain about whether theyll graduate next year. When you are making plans for next year, you will have to factor this uncertainity into your decision making process.
+
+Also, as mentioned in previous talks, another uncertainity in the DM process which must be considered is the seismic activity which nuclear storage sites may be affected by.
+
+
+
+Uncertainity is very hard for humans to deal with since we are notorously bad at dealing with probabilities and the future. Sometimes, incorrectly dealing with uncertainity can have dire consequences. On the 2nd of August, 1990, Saddam Hussein invaded Kuwait, catching the United States totally of gaurd. Leading up to this event, various intelligence agencies pressented president Bush (a very smart man), with a list of actions and decisisons the united states could take. None of these agencies had the possiblity of attack as a first choice, despite their being many vocal proponents of this option.
+
+The main suggested reason for this is Groupthink. This is the process in which thinking and decisions made by a group which once had a diverse range of opinions, becomes homogenious. This occurs when minority opinions held by individuals are overrun by the majority opinion in the group.
+
+
+
+Scenario Planning is a possible technique which can be used to mitigate these effects and reduce the possiblity of Groupthink.
+
+It involves building a set of possible scenarios which bound the entire set of possible scenarios. Once these scenarios have been built, possible actions can be planned in the event of each scenario.
+
+The process of building the scenarios is carried out with a large group involved in the decision making process. This group process is often run by someone experience in DM techniques, allowing minority opinions in the group to be given adequate airtime. Also, it is notoriously difficulty to predict the future, and by building scenarios which bound the set of possibilities, future predictions becomes much more coarse and easier to make. And by allowing getting the group to participate in this proccess, it allows members to explore the problem space more thoroughly.
+
+
