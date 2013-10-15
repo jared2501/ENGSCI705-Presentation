@@ -1,0 +1,33 @@
+html.tank body {
+	background:url("../assets/tank.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+html.tank h1, html.tank h2, html.tank p, html.tank div.mybg,
+html.fonterra h1, html.fonterra h2, html.fonterra p, html.fonterra div.mybg {
+	background-color: rgba(255,255,255,0.7);
+}
+
+
+html.fonterra body {
+	background:url("../assets/pasture.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#fonterra {
+	width: 600px;
+	height: auto;
+
+	margin: 0 0 0 0;
+	background: rgba(255,255,255,0.12);
+	border: none;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
