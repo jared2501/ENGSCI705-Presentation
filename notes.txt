@@ -70,4 +70,12 @@ This is done for each uncertaintity which is shown here. It can be noted that so
 
 Now we have fully identified the trends and uncertainties which are possible in the future, and their impact on the concern, we can use them to build two extreme worlds. These extreme worlds should bound the entire set of possible worlds.
 
-To start building the extreme worlds, we first take every
+The first extreme world we build is the extreme positive world. In this world, every single uncertainity is resolved positively. This corresponds to the best case scenario.
+
+So using our identified uncertainites, a summary of this world is on in which: Fonterra's products remain consistently high quality, the strength of the NZ dollar weakens, meaning exports are cheaper in other countries, Fonterra continues to maintain a New Zealand monopoly, and no Fart Tax is placed on cow emissions.
+
+
+
+The other extreme world is the extreme negative world, which is the pollar opposite of the extreme positive world. In this world, all possible uncertainities are resolved negatively. In this world, Fonterra's product quality and reputation has been damaged by another Botulism scare, the NZ dollar strenghtens, Fonterra is broken up the NZ government loosing its NZ monpoly, and a high fart tax is passed in NZ.
+
+
