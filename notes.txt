@@ -21,3 +21,37 @@ It involves building a set of possible scenarios which bound the entire set of p
 The process of building the scenarios is carried out with a large group involved in the decision making process. This group process is often run by someone experience in DM techniques, allowing minority opinions in the group to be given adequate airtime. Also, it is notoriously difficulty to predict the future, and by building scenarios which bound the set of possibilities, future predictions becomes much more coarse and easier to make. And by allowing getting the group to participate in this proccess, it allows members to explore the problem space more thoroughly.
 
 
+
+We will discuss two suggested methods for scenarion planning, the first of which is called the extreme worlds method.
+
+This method involves developing two possible extreme worlds: one in which everything positive that could happen, does happen, and the opposite world containing every possible negative thing that could go wrong.
+
+This method is formalised as a set of eight steps, and given to you on your hand outs. These steps are usually carried out in a group using post-it notes on a white board. During this process, it is common to retrace steps as more of hte problem space is uncovered.
+
+
+
+To demonstrate this process, Im going to run through an example concerning Fonterra. Fonterra is a multinational New Zealand dairy monopoly with over $20 billion dollars of revenue per year. They are a major contributer to the New Zealand economy and are responsible for over 30% of the world's dairy production. Also notable are the recent Botulism scares which Fonterra has had, and the impact this has had on milk powder exports. This highlights the importance to the success of Fonterra of maintaining a high quality product.
+
+
+
+Without further a due, lets begin the scenario planning proccess. The first step is to identify the concern and horizon. The concern is the objective we seek during the decision making proccess, and the horizon is the time frame over which we are concerned with. Both of these are important as the scenarios we build must revolve around the concerns, and be realisable within the horizon's time frame.
+
+In our example, the concern will be the survival and profitability of Fonterra as a company. And the horizon for this problem is 10 years from now.
+
+
+
+Now that we have identified the concern and horizon, the second step involves identifying possible trends that may affect the concern within the given horizon. For Fonterra, these trends are increasing dairy production, a preference to buy NZ products due to our clean and green image, a growing Asian consumer market, and the continuing concern of climate change affecting dairy production.
+
+
+
+Once the key trends have been identified, the next step is to identify key uncertainities which may affect the concern in the given time frame. Uncertainties considered must be resolved (or in other words have some sort of outcome) within the given time frame.
+
+The uncertainties identified here which may affect Fonterra's survival and profitability are: the ability to maintain consistently high quality products, the strength of the NZ dollar, the ability for Fonterra to maintain its current monopoly in NZ, and the possibility of NZ government implmenting some sort of Fart Tax on cows.
+
+Notice how these uncertainties differ from the trends previously identified in that they can be resolved in one way or another: for example, the NZ government will either pass a cow fart tax within the time frame, or they wont.
+
+(Say something about going back to trends phase?)
+
+
+
+The fourth step now involves identifying the impacts of
