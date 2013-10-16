@@ -1,10 +1,10 @@
-html.whitebg h1, html.whitebg h2, html.whitebg p, html.whitebg div.mybg {
-	background-color: rgba(255,255,255,0.7);
-	color: black;
+html.whitebg h1, html.whitebg h2, html.whitebg div.mybg {
+	background-color: rgba(0,0,0,0.7);
+	color: white;
 }
 
 html.whitebg h2, html.whitebg div.mybg {
-	padding: 10px 0;
+	padding: 10px 10px;
 }
 
 #fonterra {
@@ -12,7 +12,7 @@ html.whitebg h2, html.whitebg div.mybg {
 	height: auto;
 
 	margin: 0 0 0 0;
-	background: rgba(255,255,255,0.12);
+	background: none;
 	border: none;
 	-webkit-box-shadow: none;
 	-moz-box-shadow: none;
@@ -60,4 +60,8 @@ img.wingding {
 
 .reveal .progress {
 	height: 7px;
+}
+
+.pete-hl-red {
+	color: #ff2c2d;
 }

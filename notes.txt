@@ -79,3 +79,9 @@ So using our identified uncertainites, a summary of this world is on in which: F
 The other extreme world is the extreme negative world, which is the pollar opposite of the extreme positive world. In this world, all possible uncertainities are resolved negatively. In this world, Fonterra's product quality and reputation has been damaged by another Botulism scare, the NZ dollar strenghtens, Fonterra is broken up the NZ government loosing its NZ monpoly, and a high fart tax is passed in NZ.
 
 
+
+The trends previously identified can now be added to the two extreme worlds. In our example, two of the trends identified were a high demand for dairy products and a preference for NZ dairy products. Adding these trends to the extreme positive world would probably mean that Fonterra is likely to be highly profitable. Another trend was the concern that climate change has on dairy production. Adding this trend, we can see that a plausible mitigation to this concern is the invention of new sequestration technology which migitage the issues of climate change.
+
+
+
+Applying the same procedure to the extreme negative world has a different affect. Despite the high demand and preference for NZ dairy products, Asian markets seek cheaper and more trusted sources 
