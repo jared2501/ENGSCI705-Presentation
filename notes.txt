@@ -54,4 +54,20 @@ Notice how these uncertainties differ from the trends previously identified in t
 
 
 
-The fourth step now involves identifying the impacts of
+The fourth step now involves identifying the impacts of both the trends and uncertainties on the concern. These impacts are generally classified very simply as either very positive, positive, nuetral, negative, or very negative.
+
+For our example, the first three trends have a positive impact on the concern, while the last trend is negative.
+
+
+
+For the uncertainties, we must first consider each possible outcome for each uncertainty, and then consider the impact of this outcome.
+
+So for example, the strength of the NZ dollar, or in other words its value compared to the US dollar, can either in general, become higher, remain as it is, or become lower. If the NZ dollar becomes stronger, this is worse for exporters such as Fonterra since the price of NZ products in other companies becomes higher. Therefore, this has a negative impact on Fonterra as a company. On the other hand, if the NZ dollar becomes weaker then this is very good for Fonterra as their products become cheaper in other countries, which means that consumers will likely chose their product.
+
+This is done for each uncertaintity which is shown here. It can be noted that some alternatives have only two possible outcomes, such as the ability for Fonterra to hold the NZ monpoly, while others can have more.
+
+
+
+Now we have fully identified the trends and uncertainties which are possible in the future, and their impact on the concern, we can use them to build two extreme worlds. These extreme worlds should bound the entire set of possible worlds.
+
+To start building the extreme worlds, we first take every
