@@ -65,3 +65,11 @@ img.wingding {
 .pete-hl-red {
 	color: #ff2c2d;
 }
+
+#lol {
+	vertical-align: middle;
+}
+
+#lol td {
+	vertical-align: middle;
+}
